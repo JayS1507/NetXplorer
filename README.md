@@ -15,7 +15,4 @@ git clone https://github.com/JayS1507/NetXplorer.git
 cd NetXplorer
 pip install -r requirements.txt  # Install dependencies
 
-## 🖥️ Example Output
-Here's an example of NetXplorer in action:
 
-![Example Output](Example-Output.png)
