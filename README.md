@@ -11,6 +11,6 @@ NetXplorer is a **fast, efficient, and user-friendly** network scanning tool tha
 
 ## 🔧 Installation  
 ```bash
-git clone https://github.com/YOUR-USERNAME/NetXplorer.git
+git clone https://github.com/JayS1507/NetXplorer.git
 cd NetXplorer
 pip install -r requirements.txt  # Install dependencies
